@@ -36,6 +36,7 @@ class MyBanner extends HTMLElement {
       </style>
 
       <div class="banner">
+      My component is web
         <h1>${title}</h1>
         <p>${subtitle}</p>
         <a href="${link}">${buttonText}</a>
